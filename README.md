@@ -1,11 +1,14 @@
 
-  ![logo180](https://user-images.githubusercontent.com/59253551/146976174-ecf103c2-a138-4a32-a371-2f98f43eef7e.png)
-
-![Generic badge](https://img.shields.io/badge/React-17.0.2-blue.svg)
-![Generic badge](https://img.shields.io/badge/React_Router_Dom-6.0.2-red.svg)
-![Generic badge](https://img.shields.io/badge/MUI-5.2.2-007FFF.svg)
-![Generic badge](https://img.shields.io/badge/craco-6.4.2-9a9c9e.svg)
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/59253551/146976174-ecf103c2-a138-4a32-a371-2f98f43eef7e.png" width="250px" height="250px"/>
+</div>
+  <div align="center">
+<img src="https://img.shields.io/badge/React-17.0.2-blue.svg"/>
+<img src="https://img.shields.io/badge/React_Router_Dom-6.0.2-red.svg"/>
+<img src="https://img.shields.io/badge/MUI-5.2.2-007FFF.svg"/>
+<img src="https://img.shields.io/badge/craco-6.4.2-9a9c9e.svg"/>
+<img src="https://img.shields.io/badge/styled_components-5.3.3-dd6f93.svg"/>
+</div>
 
 ## 🖐 프로젝트 소개
 
@@ -30,6 +33,8 @@
 * 공개적인 댓글을 이용해 공개적인 기부 물품/기부자 모집/참여를 통해 기부의 투명성 상승
 * GPS를 기반으로 주변에 있는 기부 기관/센터를 볼 수 잇으며 기부 게시물을 태그, 위치 등 다양한 필터링을 통해 볼 수 있게 하여 기부의 편의성 상승 
 
+
+<hr/>
 
 ## 🌈 프로젝트 WireFrame & UI
 
