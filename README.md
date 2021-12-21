@@ -1,4 +1,4 @@
-<p align="center">![logo180](https://user-images.githubusercontent.com/59253551/146976174-ecf103c2-a138-4a32-a371-2f98f43eef7e.png)</p>
+<center>![logo180](https://user-images.githubusercontent.com/59253551/146976174-ecf103c2-a138-4a32-a371-2f98f43eef7e.png)</center>
 
 
 ## 🖐 프로젝트 소개
