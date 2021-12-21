@@ -35,7 +35,11 @@
 
 [프로젝트 WireFrame](https://www.figma.com/file/m9ehXAKxDkuP2nMpe8h3rE/Gibooniz?node-id=0%3A1)
 
+## 📣 배포 링크
+[배포 링크](https://need-it.netlify.app/)
 
+## ⚒ 아키텍쳐
+<img width="620" alt="image" src="https://user-images.githubusercontent.com/59253551/146981957-f2c182e6-b315-4553-97ce-e6c7403203ca.png">
 
 
 
