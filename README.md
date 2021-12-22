@@ -5,9 +5,13 @@
   <div align="center">
 <img src="https://img.shields.io/badge/React-17.0.2-blue.svg"/>
 <img src="https://img.shields.io/badge/React_Router_Dom-6.0.2-red.svg"/>
-<img src="https://img.shields.io/badge/MUI-5.2.2-007FFF.svg"/>
-<img src="https://img.shields.io/badge/craco-6.4.2-9a9c9e.svg"/>
 <img src="https://img.shields.io/badge/styled_components-5.3.3-dd6f93.svg"/>
+<img src="https://img.shields.io/badge/MUI-5.2.2-007FFF.svg"/>
+<br/>
+  <img src="https://img.shields.io/badge/craco-6.4.2-9a9c9e.svg"/>
+<img src="https://img.shields.io/badge/yarn-1.22.10-25799F.svg"/>
+  <img src="https://img.shields.io/badge/ESLint-7.20.0-9F94DA.svg"/>
+  <img src="https://img.shields.io/badge/Prettier-2.3.2-F7B93E.svg"/>
 </div>
 
 ## 🖐 프로젝트 소개
